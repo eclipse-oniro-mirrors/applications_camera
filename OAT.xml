@@ -59,7 +59,6 @@
                 <filteritem type="filepath" name="features/photo/src/main/resources/base/media/.*.svg" desc="self developed image"/>
                 <filteritem type="filepath" name="features/video/src/main/resources/base/media/.*.svg" desc="self developed image"/>
                 <filteritem type="filepath" name="product/tablet/src/main/ets/pages/default/.*.ets" desc="UI page description file"/>
-                <filteritem type="filepath" name="common/src/main/resources/rawfile/audio_control_model" desc="audio control model file"/>
                 <filteritem type="filename" name="*.png|*.PNG|*.jpg|*.jpeg|*.webp|*.json5|*.har|*.mp4|*.so|*.rgb|*.ap|*.ogg|*.a|*.bat" desc="self developed image"/>
             </filefilter>
         </filefilterlist>
